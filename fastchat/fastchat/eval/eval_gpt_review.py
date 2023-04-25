@@ -21,7 +21,7 @@ REQ_TIME_GAP = 10
 def get_eval(sys_prompt, user_prompt: str, max_tokens: int):
     logging.basicConfig(level=logging.INFO)
 
-    openai.api_key = "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"
+    openai.api_key = "sk-"
     for i in range(MAX_API_RETRY):
         try:
             response = openai.ChatCompletion.create(

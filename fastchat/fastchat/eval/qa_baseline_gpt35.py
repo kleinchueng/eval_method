@@ -12,7 +12,7 @@ import shortuuid
 
 MODEL = 'gpt-3.5-turbo'
 MODEL_ID = 'gpt-3.5-turbo:20230327'
-openai.api_key = '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'
+openai.api_key = 'sk-AA'
 
 def get_answer(question_id: int, question: str, max_tokens: int):
     ans = {
