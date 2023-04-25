@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fastchat/eval/review-output.jsonl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastchat/eval/review-output1.jsonl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastchat/eval/review-output2.jsonl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastchat/eval/review-output——t.jsonl" charset="GBK" />
+  </component>
+</project>
